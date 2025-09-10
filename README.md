@@ -1,11 +1,16 @@
 Estore Project:
+
+Login Page:
+
+<img width="1890" height="853" alt="image" src="https://github.com/user-attachments/assets/cfb15b62-ef93-4344-a73b-d29f2fd1d6a1" />
+
+Sign Up Page:
+<img width="1908" height="1016" alt="image" src="https://github.com/user-attachments/assets/64cf57e8-1296-43ee-9e8f-ed0a518327c9" />
+
 Home screen
 
 <img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/94762b68-96c8-4dba-902f-504cb5bacfde" />
 
-Login Page
-
-<img width="1890" height="853" alt="image" src="https://github.com/user-attachments/assets/cfb15b62-ef93-4344-a73b-d29f2fd1d6a1" />
 
 Cart Page
 
