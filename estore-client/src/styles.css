@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+@import "tailwindcss";
+
+.link-hover {
+  color: #374151; /* text-gray-700 */
+  font-weight: 500; /* font-medium */
+  position: relative; /* relative */
+  display: inline-block; /* inline-block */
+}
+.link-hover::after {
+  content: "";
+  display: block;
+  height: 2px;
+  background-color: #3b82f6; /* bg-blue-500 */
+  transform-origin: left;
+  transform: scaleX(0);
+  transition: transform 300ms;
+}
+.link-hover:hover::after {
+  transform: scaleX(1);
+}
