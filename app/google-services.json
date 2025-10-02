@@ -62,6 +62,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556855799418:android:232f35b3816d6b00fcd5c3",
+        "android_client_info": {
+          "package_name": "com.ron.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556855799418-2mlt0bct5qtsfc3b92510vms37569h32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG-gqXTIum8IOvzeRMYW978kCMVXm2A8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556855799418-2mlt0bct5qtsfc3b92510vms37569h32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

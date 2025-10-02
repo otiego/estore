@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-public class  MainActivity extends AppCompatActivity implements View.OnClickListener {
+public class  MainActivity extends AppCompatActivity implements View.OnClickListener{
     private TextView registerClient,registerBusiness,forgotPswd;
     private EditText editTextEmail, editTextPassword;
     private Button signIn;
@@ -38,9 +38,6 @@ public class  MainActivity extends AppCompatActivity implements View.OnClickList
         editTextPassword = (EditText) findViewById(R.id.password);
 
         progressBar = (ProgressBar) findViewById(R.id.progressBar);
-
-
-
 
     }
 
